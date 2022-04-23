@@ -1,0 +1,51 @@
+,id,title,first_artist,all_artists,danceability,energy,key,loudness,mode,acousticness,instrumentalness,liveness,valence,tempo,time_signature,duration
+0,4vUmTMuQqjdnvlZmAH61Qk,South of the Border (feat. Camila Cabello & Cardi B),Ed Sheeran,"['Ed Sheeran', 'Camila Cabello', 'Cardi B']",0.857,0.621,9,-6.376,0,0.148,0.0,0.0865,0.668,97.989,4,204
+1,1jIMjbzcGCcCQn5iMu9CUc,That's Hilarious,Charlie Puth,['Charlie Puth'],0.714,0.442,6,-5.909,1,0.742,0.0,0.114,0.546,108.039,4,147
+2,3rmo8F54jFF8OgYsqTxm5d,Bad Habits,Ed Sheeran,['Ed Sheeran'],0.807,0.893,11,-3.745,0,0.0451,2.79e-05,0.366,0.537,126.011,4,231
+3,6AtZLIzUINvExIUy4QhdjP,I Knew You Were Trouble (Taylor's Version),Taylor Swift,['Taylor Swift'],0.584,0.557,6,-6.371,1,0.0129,0.0,0.0576,0.767,154.008,4,220
+4,50nfwKoDiSYg8zOCREWAm5,Shivers,Ed Sheeran,['Ed Sheeran'],0.788,0.859,2,-2.724,1,0.281,0.0,0.0424,0.822,141.02,4,208
+5,4umIPjkehX1r7uhmGvXiSV,Intentions (feat. Quavo),Justin Bieber,"['Justin Bieber', 'Quavo']",0.806,0.546,9,-6.637,1,0.3,0.0,0.102,0.874,147.986,4,213
+6,6TYuTMfBTU4hpXrhLsjIiV,Forever My Love,J Balvin,"['J Balvin', 'Ed Sheeran']",0.622,0.257,0,-9.811,1,0.478,0.0,0.0954,0.174,79.924,4,191
+7,4Gt2kh3QbAGU6yquOWn4aW,Fake,Lauv,"['Lauv', 'Conan Gray']",0.703,0.657,4,-5.363,1,0.139,0.0,0.093,0.455,82.96,4,146
+8,7qiZfU4dY1lWllzX7mPBI3,Shape of You,Ed Sheeran,['Ed Sheeran'],0.825,0.652,1,-3.183,0,0.581,0.0,0.0931,0.931,95.977,4,234
+9,0DuWDLjriRPjDRoPgaCslY,Love In The Dark,Adele,['Adele'],0.331,0.341,9,-6.057,0,0.528,0.0,0.109,0.152,109.821,4,286
+10,4hJhHbkhZFnxmWbAkZRoe0,Peru,Fireboy DML,"['Fireboy DML', 'Ed Sheeran']",0.956,0.417,7,-7.892,0,0.572,0.00071,0.0782,0.714,108.015,4,187
+11,2JzZzZUQj3Qff7wapcbKjc,See You Again (feat. Charlie Puth),Wiz Khalifa,"['Wiz Khalifa', 'Charlie Puth']",0.689,0.481,10,-7.503,1,0.369,1.03e-06,0.0649,0.283,80.025,4,230
+12,2DB4DdfCFMw1iaR6JaR03a,Bam Bam (feat. Ed Sheeran),Camila Cabello,"['Camila Cabello', 'Ed Sheeran']",0.756,0.697,8,-6.377,1,0.182,0.0,0.333,0.956,94.996,4,206
+13,1Ov37jtRQ2YNAe8HzfczkL,Wildest Dreams (Taylor's Version),Taylor Swift,['Taylor Swift'],0.583,0.67,8,-7.289,1,0.0374,0.0001,0.126,0.498,140.061,4,220
+14,6N1K5OVVCopBjGViHs2IvP,The Joker And The Queen (feat. Taylor Swift),Ed Sheeran,"['Ed Sheeran', 'Taylor Swift']",0.528,0.309,0,-7.398,1,0.924,2.1e-06,0.282,0.307,133.83,4,185
+15,5PjdY0CKGZdEuoNab3yDmX,STAY (with Justin Bieber),The Kid LAROI,"['The Kid LAROI', 'Justin Bieber']",0.591,0.764,1,-5.484,1,0.0383,0.0,0.103,0.478,169.928,4,142
+16,2RttW7RAu5nOAfq6YFvApB,Happier,Ed Sheeran,['Ed Sheeran'],0.522,0.385,0,-7.355,1,0.536,0.0,0.135,0.236,89.792,4,208
+17,2P91MQbaiQOfbiz9VqhqKQ,I Like Me Better,Lauv,['Lauv'],0.752,0.505,9,-7.621,1,0.535,2.55e-06,0.104,0.419,91.97,4,197
+18,6PCUP3dWmTjcTtXY02oFdT,Castle on the Hill,Ed Sheeran,['Ed Sheeran'],0.461,0.834,2,-4.868,1,0.0232,1.14e-05,0.14,0.471,135.007,4,261
+19,3Kkjo3cT83cw09VJyrLNwX,Oh My God,Adele,['Adele'],0.534,0.725,1,-3.906,1,0.091,0.0,0.0264,0.55,88.098,4,225
+20,0bBd6K5X4W7t9GyXcaVOA7,Sigue,J Balvin,"['J Balvin', 'Ed Sheeran']",0.889,0.641,7,-4.494,1,0.0515,2.75e-05,0.19,0.588,87.99,4,159
+21,5cF0dROlMOK5uNZtivgu50,Attention,Charlie Puth,['Charlie Puth'],0.775,0.613,3,-4.586,0,0.109,2.33e-05,0.134,0.797,100.066,4,209
+22,4THoSHxiabL1rd59iVWu2T,Cold Coffee,Ed Sheeran,['Ed Sheeran'],0.544,0.529,6,-6.753,1,0.453,0.0,0.131,0.403,92.936,4,254
+23,4y5bvROuBDPr5fuwXbIBZR,Paper Rings,Taylor Swift,['Taylor Swift'],0.811,0.719,9,-6.553,1,0.0129,1.36e-05,0.0742,0.865,103.979,4,222
+24,1VdZ0vKfR5jneCmWIUAMxK,The A Team,Ed Sheeran,['Ed Sheeran'],0.642,0.289,9,-9.918,1,0.669,0.0,0.18,0.407,84.996,4,258
+25,4iJyoBOLtHqaGxP12qzhQI,Peaches (feat. Daniel Caesar & Giveon),Justin Bieber,"['Justin Bieber', 'Daniel Caesar', 'Giveon']",0.677,0.696,0,-6.181,1,0.321,0.0,0.42,0.464,90.03,4,198
+26,0E4Y1XIbs8GrAT1YqVy6dq,Afterglow,Ed Sheeran,['Ed Sheeran'],0.641,0.324,11,-5.851,1,0.698,0.0,0.328,0.273,110.184,4,185
+27,2qG81jL9UIP54uS8gYyP4k,Who (feat. BTS),Lauv,"['Lauv', 'BTS']",0.632,0.339,11,-7.983,0,0.546,0.0,0.104,0.0969,141.642,3,180
+28,0hVXuCcriWRGvwMV1r5Yn9,I Don't Care (with Justin Bieber),Ed Sheeran,"['Ed Sheeran', 'Justin Bieber']",0.798,0.676,6,-5.041,1,0.0902,0.0,0.0894,0.843,101.956,4,220
+29,46IZ0fSY2mpAiktS3KOqds,Easy On Me,Adele,['Adele'],0.604,0.366,5,-7.519,1,0.578,0.0,0.133,0.13,141.981,4,225
+30,51ChrwmUPDJvedPQnIU8Ls,Dive,Ed Sheeran,['Ed Sheeran'],0.761,0.386,4,-6.158,1,0.355,0.0,0.0953,0.526,134.943,3,238
+31,6wmAHw1szh5RCKSRjiXhPe,How Long,Charlie Puth,['Charlie Puth'],0.845,0.561,1,-5.253,0,0.211,3.49e-06,0.0383,0.811,109.974,4,201
+32,4IQkfUsrwXol38VV3U7t7T,Run (feat. Ed Sheeran) (Taylor’s Version) (From The Vault),Taylor Swift,"['Taylor Swift', 'Ed Sheeran']",0.61,0.488,3,-6.918,1,0.817,0.0,0.312,0.443,125.039,4,240
+33,4svZDCRz4cJoneBpjpx8DJ,I Did Something Bad,Taylor Swift,['Taylor Swift'],0.696,0.602,0,-6.156,0,0.0679,2.11e-05,0.0696,0.305,82.989,4,238
+34,6J7PIkhtHwmFjPLq0SyuPj,Dark Times,The Weeknd,"['The Weeknd', 'Ed Sheeran']",0.501,0.403,7,-9.611,1,0.116,1.03e-05,0.124,0.27,132.608,3,261
+35,4nTjkWK590oBDcnIxTr1mI,Favorite Girl,Justin Bieber,['Justin Bieber'],0.581,0.681,7,-4.469,1,0.0472,0.0,0.104,0.634,176.034,4,257
+36,4VuS959DSpr82t3qBqCrWG,Supermarket Flowers,Ed Sheeran,['Ed Sheeran'],0.589,0.242,6,-10.517,1,0.914,0.0,0.0887,0.257,89.749,4,221
+37,0s26En1JoJhVj32vizElpA,Feelings,Lauv,['Lauv'],0.7,0.392,9,-8.911,1,0.0578,0.0,0.0802,0.25,103.044,4,190
+38,0afhq8XCExXpqazXczTSve,Galway Girl,Ed Sheeran,['Ed Sheeran'],0.624,0.876,9,-3.374,1,0.0735,0.0,0.327,0.781,99.943,4,171
+39,2DuPBbS5mIldXnh7Wum8Cy,My Little Love,Adele,['Adele'],0.339,0.492,1,-10.661,1,0.829,0.00377,0.147,0.102,151.865,4,389
+40,3Th56VIq2sEaEmPPETu7p5,All of the Stars,Ed Sheeran,['Ed Sheeran'],0.54,0.557,11,-6.097,1,0.00886,0.000182,0.307,0.287,75.035,4,237
+41,3AVXwaOGCEL8cmBecfcsFJ,Light Switch,Charlie Puth,['Charlie Puth'],0.69,0.626,6,-5.693,1,0.105,0.000335,0.0881,0.912,184.009,4,186
+42,1cS0TgbR263ey9jn0MwD2s,River (feat. Ed Sheeran),Eminem,"['Eminem', 'Ed Sheeran']",0.748,0.749,8,-5.916,0,0.142,0.0,0.0713,0.659,90.09,4,221
+43,1u8c2t2Cy7UBoG4ArRcF5g,Blank Space,Taylor Swift,['Taylor Swift'],0.76,0.703,5,-5.412,1,0.103,0.0,0.0913,0.57,95.997,4,232
+44,4btFHqumCO31GksfuBLLv3,Overpass Graffiti,Ed Sheeran,['Ed Sheeran'],0.52,0.849,9,-3.794,0,0.00253,0.0,0.119,0.774,175.908,4,237
+45,6I3mqTwhRpn34SLVafSH7G,Ghost,Justin Bieber,['Justin Bieber'],0.601,0.741,2,-5.569,1,0.185,2.91e-05,0.415,0.441,153.96,4,153
+46,4z1O25cq9g2kuJemmUxc21,Small Bump,Ed Sheeran,['Ed Sheeran'],0.81,0.436,10,-12.683,1,0.689,0.000151,0.11,0.446,119.973,4,259
+47,4vjpLMyL3ZO6aphdYr8XYw,i'm so tired...,Lauv,"['Lauv', 'Troye Sivan']",0.576,0.736,11,-7.572,1,0.178,0.0,0.238,0.484,101.928,4,163
+48,1i4F583d9v9RabcfOlKKVL,Love In Slow Motion,Ed Sheeran,['Ed Sheeran'],0.485,0.54,1,-5.4,1,0.668,0.0,0.0849,0.426,62.631,4,191
+49,6O5TrlFWTYvznd9fMC0VvU,When We Were Young,Adele,['Adele'],0.376,0.595,3,-5.936,1,0.303,0.0,0.095,0.265,144.361,4,291

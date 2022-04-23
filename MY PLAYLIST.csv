@@ -1,0 +1,51 @@
+id,id,title,first_artist,all_artists,danceability,energy,key,loudness,mode,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+50nfwKoDiSYg8zOCREWAm5,50nfwKoDiSYg8zOCREWAm5,Shivers,Ed Sheeran,['Ed Sheeran'],0.788,0.859,2,-2.724,1,0.281,0.0,0.0424,0.822,141.02,207853,4
+4iJyoBOLtHqaGxP12qzhQI,4iJyoBOLtHqaGxP12qzhQI,Peaches (feat. Daniel Caesar & Giveon),Justin Bieber,"['Justin Bieber', 'Daniel Caesar', 'Giveon']",0.677,0.696,0,-6.181,1,0.321,0.0,0.42,0.464,90.03,198082,4
+4QPEwDdOMhY7rNS05mTyMR,4QPEwDdOMhY7rNS05mTyMR,Own It (feat. Ed Sheeran & Burna Boy),Stormzy,"['Stormzy', 'Burna Boy', 'Ed Sheeran']",0.817,0.781,7,-4.178,0,0.00838,5.21e-06,0.123,0.359,104.0,216707,4
+5tz69p7tJuGPeMGwNTxYuV,5tz69p7tJuGPeMGwNTxYuV,1-800-273-8255,Logic,"['Logic', 'Alessia Cara', 'Khalid']",0.62,0.574,5,-7.788,0,0.569,0.0,0.19,0.357,100.023,250173,4
+0Tel1fmuCxEFV6wBLXsEdk,0Tel1fmuCxEFV6wBLXsEdk,Kiss Me,Ed Sheeran,['Ed Sheeran'],0.589,0.227,2,-16.67,1,0.64,0.00469,0.0248,0.182,74.993,280853,4
+4qu63nuBpdn0qHUHuObEj1,4qu63nuBpdn0qHUHuObEj1,Leave Before You Love Me (with Jonas Brothers),Marshmello,"['Marshmello', 'Jonas Brothers']",0.721,0.738,7,-4.77,1,0.00226,4.41e-06,0.118,0.637,119.976,154983,4
+2RttW7RAu5nOAfq6YFvApB,2RttW7RAu5nOAfq6YFvApB,Happier,Ed Sheeran,['Ed Sheeran'],0.522,0.385,0,-7.355,1,0.536,0.0,0.135,0.236,89.792,207520,4
+6v3KW9xbzN5yKLt9YKDYA2,6v3KW9xbzN5yKLt9YKDYA2,Señorita,Shawn Mendes,"['Shawn Mendes', 'Camila Cabello']",0.759,0.548,9,-6.049,0,0.0392,0.0,0.0828,0.749,116.967,190800,4
+4mJDfMcT7odIUjWlb2WO4L,4mJDfMcT7odIUjWlb2WO4L,Baby One More Time - Recorded at Spotify Studios New York City,Ed Sheeran,['Ed Sheeran'],0.792,0.307,11,-6.224,0,0.189,0.0,0.0834,0.631,104.511,177215,4
+6VrLYoQKdhu1Jruei06t65,6VrLYoQKdhu1Jruei06t65,Somebody To You,The Vamps,['The Vamps'],0.526,0.818,3,-5.952,1,0.0587,0.0,0.333,0.896,171.96,185098,4
+6N1K5OVVCopBjGViHs2IvP,6N1K5OVVCopBjGViHs2IvP,The Joker And The Queen (feat. Taylor Swift),Ed Sheeran,"['Ed Sheeran', 'Taylor Swift']",0.528,0.309,0,-7.398,1,0.924,2.1e-06,0.282,0.307,133.83,185422,4
+16wAOAZ2OkqoIDN7TpChjR,16wAOAZ2OkqoIDN7TpChjR,Yummy,Justin Bieber,['Justin Bieber'],0.676,0.506,9,-6.652,0,0.345,0.0,0.118,0.497,145.842,208520,4
+1bhUWB0zJMIKr9yVPrkEuI,1bhUWB0zJMIKr9yVPrkEuI,Perfect Duet (Ed Sheeran & Beyoncé),Ed Sheeran,"['Ed Sheeran', 'Beyoncé']",0.587,0.299,8,-7.365,1,0.779,0.0,0.123,0.356,94.992,259550,3
+2JerYQPEZWTiTEIFgfUEoV,2JerYQPEZWTiTEIFgfUEoV,WTSGD (with Alessia Cara),CLAY,"['CLAY', 'Alessia Cara']",0.574,0.461,9,-10.721,1,0.28,3.76e-05,0.104,0.344,156.074,244014,4
+4btFHqumCO31GksfuBLLv3,4btFHqumCO31GksfuBLLv3,Overpass Graffiti,Ed Sheeran,['Ed Sheeran'],0.52,0.849,9,-3.794,0,0.00253,0.0,0.119,0.774,175.908,236907,4
+6sDP4912wjwB7BJhbSnjS1,6sDP4912wjwB7BJhbSnjS1,S.O.S.,Jonas Brothers,['Jonas Brothers'],0.584,0.696,7,-3.836,1,0.000728,0.0,0.184,0.699,137.112,153347,4
+7qiZfU4dY1lWllzX7mPBI3,7qiZfU4dY1lWllzX7mPBI3,Shape of You,Ed Sheeran,['Ed Sheeran'],0.825,0.652,1,-3.183,0,0.581,0.0,0.0931,0.931,95.977,233713,4
+73cnVqsbZygieKi8xF10sO,73cnVqsbZygieKi8xF10sO,psychofreak (feat. WILLOW),Camila Cabello,"['Camila Cabello', 'WILLOW']",0.629,0.64,7,-7.638,0,0.342,1.17e-05,0.0928,0.448,179.989,201495,4
+3rmo8F54jFF8OgYsqTxm5d,3rmo8F54jFF8OgYsqTxm5d,Bad Habits,Ed Sheeran,['Ed Sheeran'],0.807,0.893,11,-3.745,0,0.0451,2.79e-05,0.366,0.537,126.011,230747,4
+6THwtgImf1ZAR2w3iknjeS,6THwtgImf1ZAR2w3iknjeS,We Don't Care,Sigala,"['Sigala', 'The Vamps']",0.682,0.841,10,-3.465,0,0.0308,0.0,0.0534,0.717,90.15,207667,4
+0rt63HYAAIzUZo5O2D0uA6,0rt63HYAAIzUZo5O2D0uA6,Visiting Hours,Ed Sheeran,['Ed Sheeran'],0.471,0.396,8,-6.654,1,0.77,0.0,0.0729,0.263,149.609,215507,4
+7iNIg7XDEaYECfWD5dJ9Va,7iNIg7XDEaYECfWD5dJ9Va,Friends (with BloodPop®),Justin Bieber,"['Justin Bieber', 'BloodPop®']",0.743,0.735,8,-5.337,1,0.00389,0.0,0.304,0.631,104.979,189467,4
+6fxVffaTuwjgEk5h9QyRjy,6fxVffaTuwjgEk5h9QyRjy,Photograph,Ed Sheeran,['Ed Sheeran'],0.614,0.379,4,-10.48,1,0.607,0.000464,0.0986,0.201,107.989,258987,4
+3HhrQvdp1HIVluWLEgdAsV,3HhrQvdp1HIVluWLEgdAsV,Sweet Dream,Alessia Cara,['Alessia Cara'],0.734,0.538,0,-9.2,1,0.253,0.0,0.229,0.461,123.052,182255,4
+6J7WMB5GII6pEOzy687jhO,6J7WMB5GII6pEOzy687jhO,Beautiful People (feat. Khalid) - NOTD Remix,Ed Sheeran,"['Ed Sheeran', 'Khalid', 'NOTD']",0.702,0.794,3,-5.913,1,0.00715,4.56e-05,0.11,0.37,103.972,162081,4
+1vYh9x8UmFTLbXiizk9Qc5,1vYh9x8UmFTLbXiizk9Qc5,I Believe,Jonas Brothers,['Jonas Brothers'],0.749,0.774,9,-6.221,1,0.0857,1.14e-05,0.11,0.35,99.019,217533,4
+6Kzzkq9sFHm51RwhHswCVc,6Kzzkq9sFHm51RwhHswCVc,South of the Border (feat. Camila Cabello) - Acoustic,Ed Sheeran,"['Ed Sheeran', 'Camila Cabello']",0.735,0.686,9,-4.476,0,0.502,0.0,0.101,0.961,93.918,194885,4
+5HwnezK198pJCEj1l2Adjy,5HwnezK198pJCEj1l2Adjy,She Loves Control,Camila Cabello,['Camila Cabello'],0.65,0.758,2,-4.02,1,0.166,0.0,0.0889,0.663,94.9,177160,4
+0bBd6K5X4W7t9GyXcaVOA7,0bBd6K5X4W7t9GyXcaVOA7,Sigue,J Balvin,"['J Balvin', 'Ed Sheeran']",0.889,0.641,7,-4.494,1,0.0515,2.75e-05,0.19,0.588,87.99,159387,4
+24u37Wx6wCOeBAi8g203KC,24u37Wx6wCOeBAi8g203KC,Would You,The Vamps,['The Vamps'],0.818,0.615,5,-5.536,1,0.0768,2.44e-06,0.142,0.498,102.936,181600,4
+5d1rmWWF1725tnYjq6rMDB,5d1rmWWF1725tnYjq6rMDB,Way To Break My Heart (feat. Skrillex),Ed Sheeran,"['Ed Sheeran', 'Skrillex']",0.726,0.731,1,-6.298,0,0.11,3.45e-06,0.0928,0.437,170.125,190293,4
+09CtPGIpYB4BrO8qb1RGsF,09CtPGIpYB4BrO8qb1RGsF,Sorry,Justin Bieber,['Justin Bieber'],0.654,0.76,0,-3.669,0,0.0797,0.0,0.299,0.41,99.945,200787,4
+2DB4DdfCFMw1iaR6JaR03a,2DB4DdfCFMw1iaR6JaR03a,Bam Bam (feat. Ed Sheeran),Camila Cabello,"['Camila Cabello', 'Ed Sheeran']",0.756,0.697,8,-6.377,1,0.182,0.0,0.333,0.956,94.996,206071,4
+5EbX5xL3O2xT8FxCpYzgUO,5EbX5xL3O2xT8FxCpYzgUO,"How Far I'll Go - From ""Moana""",Alessia Cara,['Alessia Cara'],0.309,0.544,9,-9.621,1,0.155,0.000265,0.0727,0.16,180.979,175517,4
+5HDPtsnyb3maFmPL8LLUTG,5HDPtsnyb3maFmPL8LLUTG,New Man,Ed Sheeran,['Ed Sheeran'],0.78,0.745,7,-3.97,1,0.0559,0.0,0.0595,0.862,94.026,189280,4
+0DiDStADDVh3SvAsoJAFMk,0DiDStADDVh3SvAsoJAFMk,Only Human,Jonas Brothers,['Jonas Brothers'],0.795,0.496,0,-5.883,1,0.108,0.0,0.0645,0.874,94.01,183000,4
+3B7udSGy2PfgoCniMSb523,3B7udSGy2PfgoCniMSb523,"I See Fire - From ""The Hobbit - The Desolation Of Smaug""",Ed Sheeran,['Ed Sheeran'],0.581,0.0549,10,-20.514,0,0.559,0.0,0.0718,0.234,152.037,300840,4
+2GyA33q5rti5IxkMQemRDH,2GyA33q5rti5IxkMQemRDH,I Know What You Did Last Summer,Shawn Mendes,"['Shawn Mendes', 'Camila Cabello']",0.687,0.761,9,-4.582,0,0.102,0.0,0.147,0.743,113.939,223853,4
+0afhq8XCExXpqazXczTSve,0afhq8XCExXpqazXczTSve,Galway Girl,Ed Sheeran,['Ed Sheeran'],0.624,0.876,9,-3.374,1,0.0735,0.0,0.327,0.781,99.943,170827,4
+1gk5o5yEXAsHeXMJoavmh3,1gk5o5yEXAsHeXMJoavmh3,All Night - Slowed N Reverb,The Vamps,"['The Vamps', 'Matoma']",0.607,0.678,8,-7.045,0,0.00527,0.0,0.332,0.433,115.968,244798,4
+5iYqXLSwFkrsgXl53pAnhd,5iYqXLSwFkrsgXl53pAnhd,Boa Me (feat. Ed Sheeran & Mugeez),Fuse ODG,"['Fuse ODG', 'Ed Sheeran', 'Mugeez']",0.906,0.597,0,-2.566,1,0.165,2.94e-06,0.0775,0.967,124.008,180500,4
+6VkmdRz8YgHFQV3ZNTJAWU,6VkmdRz8YgHFQV3ZNTJAWU,Intentions - Acoustic,Justin Bieber,['Justin Bieber'],0.711,0.411,9,-6.657,1,0.594,0.0,0.0903,0.791,73.997,160612,4
+6PCUP3dWmTjcTtXY02oFdT,6PCUP3dWmTjcTtXY02oFdT,Castle on the Hill,Ed Sheeran,['Ed Sheeran'],0.461,0.834,2,-4.868,1,0.0232,1.14e-05,0.14,0.471,135.007,261154,4
+1w1UFvNdHZZLhozS2Ysdub,1w1UFvNdHZZLhozS2Ysdub,Bluebird,Alessia Cara,['Alessia Cara'],0.697,0.403,10,-9.764,1,0.68,0.0,0.126,0.717,107.945,194393,4
+1cS0TgbR263ey9jn0MwD2s,1cS0TgbR263ey9jn0MwD2s,River (feat. Ed Sheeran),Eminem,"['Eminem', 'Ed Sheeran']",0.748,0.749,8,-5.916,0,0.142,0.0,0.0713,0.659,90.09,221013,4
+2n6red10oCd6YhlEUp6jXy,2n6red10oCd6YhlEUp6jXy,Used To Be,Jonas Brothers,['Jonas Brothers'],0.71,0.517,1,-6.85,1,0.172,0.0,0.0786,0.176,145.946,184987,4
+51ChrwmUPDJvedPQnIU8Ls,51ChrwmUPDJvedPQnIU8Ls,Dive,Ed Sheeran,['Ed Sheeran'],0.761,0.386,4,-6.158,1,0.355,0.0,0.0953,0.526,134.943,238440,3
+6XlSyYFTU1nodeWwwzVgTV,6XlSyYFTU1nodeWwwzVgTV,Sangria Wine,Pharrell Williams,"['Pharrell Williams', 'Camila Cabello']",0.831,0.713,1,-3.646,0,0.181,0.0,0.0572,0.69,132.109,202853,4
+6SznMYPQJHzr3IwsAHLId2,6SznMYPQJHzr3IwsAHLId2,Bibia Be Ye Ye,Ed Sheeran,['Ed Sheeran'],0.738,0.677,7,-5.121,1,0.52,0.0,0.133,0.882,127.067,176747,4
+0jS8J4DPuFXEJo26DwIVGJ,0jS8J4DPuFXEJo26DwIVGJ,Chemicals,The Vamps,['The Vamps'],0.695,0.668,7,-4.406,1,0.0423,0.0,0.12,0.696,159.93,170693,4
